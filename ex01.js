@@ -11,4 +11,11 @@ console.log(typeof coronaSympt);
 var corona = true;
 console.log(typeof corona);
 
+var survivalKit = {
+    head: "FFP2mask",
+    hands: "gloves",
+    mood: "stayPositive"
+};
+console.log(typeof survivalKit);
+
 
